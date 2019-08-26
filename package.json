@@ -9,7 +9,7 @@
   "dependencies": {
     "dotenv": "^5.0.1",
     "express": "^4.16.3",
-    "node-ruuvitag": "^4.1.0"
+    "node-ruuvitag": "https://github.com/Glenf/node-ruuvitag.git#fix/abandonware-noble"
   },
   "devDependencies": {
     "prettier": "^1.11.1"
